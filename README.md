@@ -1,2 +1,2 @@
 # Steamcharts-scrapy
-Steamcharts.com scraper based on scrapy
+Steamcharts.com scraper made with scrapy
